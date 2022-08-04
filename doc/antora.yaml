@@ -3,4 +3,4 @@ title: Doc site
 version: ~
 start_page: HiDyVe-nav.adoc
 nav:
- -modules/ROOT/HiDyVe-nav.adoc
+ -modules/ROOT/nav.adoc

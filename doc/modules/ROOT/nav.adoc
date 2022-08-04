@@ -1,0 +1,9 @@
+:api-docs-url: <url to the API documentation>
+
+* xref:Appendix.adoc#sec-overview[Overview]
+// * xref:index.adoc#sec-contributions[Contribute]
+// * xref:index.adoc#sec-supported-technos[Supported technologies]
+// * xref:index.adoc#sec-arch[Architecture]
+// * xref:index.adoc#sec-deploy[Deployment]
+// * xref:index.adoc#sec-faq[FaQ]
+// * xref:index.adoc#sec-new-streamer-types[Support new technologies]
