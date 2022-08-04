@@ -1,0 +1,6 @@
+name: Antora_GE_Documentation
+title: Doc site
+version: ~
+start_page: HiDyVe-nav.adoc
+nav:
+ -modules/ROOT/HiDyVe-nav.adoc
