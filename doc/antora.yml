@@ -3,4 +3,4 @@ title: Doc site
 version: ~
 start_page: Appendix.adoc
 nav:
- -modules/ROOT/nav.adoc
+ - modules/ROOT/nav.adoc
