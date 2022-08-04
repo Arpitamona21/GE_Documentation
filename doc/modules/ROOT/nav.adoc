@@ -1,6 +1,6 @@
 :api-docs-url: <url to the API documentation>
 
-*xref: Appendix.adoc#appendix-contributions[Appendix]
+*xref:Appendix.adoc#appendix-contributions[Appendix]
 // * xref:index.adoc#sec-contributions[Contribute]
 // * xref:index.adoc#sec-supported-technos[Supported technologies]
 // * xref:index.adoc#sec-arch[Architecture]
