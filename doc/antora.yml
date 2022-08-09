@@ -1,6 +1,6 @@
 name: Antora_GE_Documentation
 title: Doc site
 version: ~
-start_page: Appendix.adoc
+start_page: index.adoc
 nav:
  - modules/ROOT/nav.adoc
