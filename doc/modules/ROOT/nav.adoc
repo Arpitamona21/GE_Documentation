@@ -2,7 +2,8 @@
 
 // xref:Appendix.adoc#appendix-contributions[Appendix]
 
-* xref:Appendix/Appendix.adoc#Appendiximage[Appendix]
+* xref:Appendix.adoc#Appendiximage[Appendix]
+* xref:Introduction.adoc#Introduction[Introduction]
 // * xref:index.adoc#sec-contributions[Contribute]
 // * xref:index.adoc#sec-supported-technos[Supported technologies]
 // * xref:index.adoc#sec-arch[Architecture]
